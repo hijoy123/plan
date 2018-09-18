@@ -9,3 +9,10 @@
       1.账号体系 
       2.连接时长控制 
       3.速度控制
+
+资料
+云服务搭建：https://my.hawkhost.com/cart.php?gid=17
+国内云服务对比：https://www.zhujiceping.com/9254.html
+android内嵌iframe代码：https://github.com/yanglang1987500/AppInterface
+
+
